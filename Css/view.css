@@ -1,0 +1,239 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-size: 14px;
+	font-family:"microsoft yahei";
+}
+.top{
+	width: 1100px;
+	height: 90px;
+	margin: 0 auto;
+}
+.top p{
+	font-size: 70px;
+	font-family: 华文行楷;
+	padding-top: 5px;
+	height: 78px;
+	line-height: 78px;
+	float: left;
+	padding-left:400px;
+	text-indent: 0;
+	color: #000000;
+}
+.right{
+	float: right;
+}
+.right li a:hover{
+	color:#FF7F50;
+	}
+.right li a{
+	text-decoration: none;
+	color: darkblue;
+}
+.right li {
+	float: left;
+	font-family: 华文行楷;
+	font-size: 30px;
+	line-height: 78px;
+	height: 78px;
+	width: 80px;
+	list-style: none;
+	padding-top: 10px;
+}
+.center{
+	
+	background: url(../img/云南景点14.png);background-repeat: no-repeat;
+	background-size: cover;
+	width: 1100px;
+	height: 450px;
+	margin: 0 auto;
+	box-shadow:0px 10px 10px darkgray;
+	
+}
+.a{
+	font-family: 华文行楷;
+	font-size: 40px;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	text-indent: 0;
+	color: #000000;
+}
+.center h3{
+	font-size: 25px;
+	font-family: 仿宋;
+	font-weight: 500px;
+	color:black;
+	padding: 0 10px;
+}
+p{
+	font-family: 楷体;
+	font-size: 19px;
+	text-indent: 2em;
+	line-height: 1.5;
+	padding:0 20px;
+	color:brown;
+}
+.bottom{
+	width: 1100px;
+	height: 2300px;
+	margin: 5px auto;
+	background-color:floralwhite;
+	box-shadow:0px 10px 10px darkgray;
+}
+.b{
+	font-size: 40px;
+	font-family: 华文行楷;
+	width: 1080px;
+	height: 80px;
+	line-height:80px;
+	border-bottom: lavender solid 3px;
+	padding: 0 10px;
+}
+.img{
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top: 10px;
+	padding-left: 30px;
+}
+.img>img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border:moccasin  solid 5px;
+}
+.color{
+	width: 150px;
+	height: 50px;
+	background-color: moccasin ;
+	margin: 10px auto;
+	border-radius: 20%;
+	margin-left: 80px;
+	
+}
+.color p{
+	font-size:25px;
+	font-family: 华文行楷;
+	line-height: 50px;
+	padding-left: 3px;
+}
+.text{
+	float: right;
+	width: 600px;
+	height: 360px;
+	margin-top: 10px;
+	box-shadow:0px 10px 10px darkgray;
+	margin-right: 50px;
+	background-color: aliceblue;
+}
+.text p{
+	padding-top: 20px;
+	color: #000000;
+}
+.img-1{
+	width: 350px;
+	height: 400px;
+	float:right;
+	margin-top: 80px;
+	margin-right: 0px;
+}
+.img-1>img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: moccasin solid 5px;
+}
+.text-1{
+	float:left;
+	width: 630px;
+	height: 400px;
+	margin-top: 10px;
+	box-shadow:0px 10px 10px darkgray;
+	margin-left: 50px;
+	background-color: aliceblue;
+}
+.text-1 p{
+	padding-top: 20px;
+	color: #000000;
+}
+.img-2{
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top: 50px;
+	padding-left: 30px;
+}
+.img-2>img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: moccasin  solid 5px;
+	}
+.color-1{
+		width: 180px;
+		height: 50px;
+		margin: 10px auto;
+		border-radius: 20%;
+		margin-left: 70px;
+		background-color: moccasin ;
+	}
+.color-1 p{
+		font-size:25px;
+		font-family: 华文行楷;
+		line-height: 50px;
+		padding-left: 0px;
+	}
+.text-2{
+		float:left;
+		width: 630px;
+		height: 330px;
+		margin-top: 10px;
+		box-shadow:0px 10px 10px darkgray;
+		margin-left: 50px;
+		background-color: aliceblue;
+	}
+.text-2 p{
+		padding-top: 20px;
+		color: #000000;
+	}
+.text-3{
+	float: right;
+	width: 600px;
+	height: 390px;
+	margin-top: 10px;
+	box-shadow:0px 10px 10px darkgray;
+	margin-right: 50px;
+	background-color: aliceblue;
+}
+.text-3 p{
+	padding-top: 20px;
+	color: #000000;
+}
+.img-3{
+	width: 350px;
+	height: 400px;
+	float:right;
+	margin-top: 50px;
+	margin-right: 0px;
+}
+.img-3>img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: moccasin solid 5px;
+}
+.img-4{
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top: 100px;
+	padding-left: 30px;
+}
+.img-4>img{
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	border: moccasin  solid 5px;
+	}

@@ -1,0 +1,123 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	font-size: 14px;
+	font-family: "microsoft yahei"
+}
+.big{
+	height: 400px;
+	background-image:url(../img/云南背景8.png);background-repeat: no-repeat;
+	background-size: cover;
+}
+.top{
+	width: 1100px;
+	height: 78px;
+	margin: 0 auto;	
+}
+.top p{
+	padding-top: 5px;
+	font-family: 华文行楷;
+	font-size: 70px;
+	height: 78px;
+	line-height: 78px;
+	float: left;
+	padding-left:400px;
+	
+}
+.right{
+	float: right;
+}
+.right li{
+	font-family: 华文行楷;
+	float: left;
+	width: 80px;
+	height: 78px;
+	line-height: 78px;
+	font-size:30px;
+	list-style: none;
+	padding-top: 10px;
+}
+.right li a{
+	text-decoration: none;
+	color: darkblue;
+
+}
+.right li a:hover{
+	color: #FF7F50;
+}
+.center{
+	background-color:lightcyan;
+	width: 1100px;
+	height: 450px;
+	margin: 10px auto;
+	padding-top: 20px;
+	box-shadow:0px 10px 10px darkgray; 
+}
+.tu-1{
+	float: left;
+	padding-left: 20px;
+}
+.photo-left>img{
+	width: 210px;
+	height: 200px;
+}
+.photo-bottom>img{
+	width: 210px;
+	height: 200px;
+}
+.text-1{
+	float: right;
+	width:400px;
+	height:400px;	
+	margin-right: 30px;
+}
+.text-1 p{
+	font-weight: bold;
+	line-height: 2;
+	text-indent: 2em;
+}
+.text-1 span{
+	font-size:40px;
+	font-family: 华文行楷;
+	color: coral;
+}
+.bottom{
+	box-shadow:0px 10px 10px darkgray;
+	width: 1100px;
+	height: 450px;
+	margin: 0 auto;
+	padding-top: 20px;
+	background-color: oldlace;
+	
+}
+.tu-2{
+	float: left;
+	padding-left: 20px;
+}
+.food-left>img{
+	width: 210px;
+	height: 200px;
+}
+.food-bottom>img{
+	width: 210px;
+	height: 200px;
+}
+.text-2{
+	float: right;
+	width: 400px;
+	height: 400px;
+	margin-right: 30px;
+}
+.text-2 p{
+	font-weight: bold;
+	line-height: 2;
+	text-indent: 2em;
+	font-size: 16px;
+}
+.text-2 span{
+	font-size:40px;
+	font-family: 华文行楷;
+	color: coral;
+}
